@@ -1,4 +1,4 @@
-##Yapay Zek Destekli Güvenlik Kamerası
+##Yapay Zeka Destekli Güvenlik Kamerası
 
 ###Kurulum
 
