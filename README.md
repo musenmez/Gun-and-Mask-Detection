@@ -1,4 +1,4 @@
-# Mask-and-Gun-Detection
+# Gun-and-Mask-Detection
 
 ##Yapay Zeka Destekli Güvenlik Kamerası
 
